@@ -1,0 +1,8 @@
+1 Github account
+2. Empty repo
+3. local system
+    git config --global user.name "vaibhavporwal01"
+    git config --global user.email "vaibhavporwal135@gmail.com"
+4. git push -u origin master  
+  4.1 username -> vaibhavporwal01
+  4.2 password -> smhtg    
